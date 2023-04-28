@@ -25,7 +25,7 @@
           { id: 6, title: "Decimals" },
           { id: 7, title: "Percents" },
           { id: 8, title: "Geometry" },
-          { id: 9, title: "Algebra" },
+          { id: 9, title: "Algebre" },
           { id: 10, title: "Probability" },
         ],
       };
